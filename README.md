@@ -1,6 +1,6 @@
-# Hello World! I’m Hemank
+# Hey! I’m Hemank
 I enjoy coding and find it really fun! I love working on machine learning projects and turning ideas into real, working solutions. Whether it’s building models or trying something I’ve never done before, the process of figuring out solutions is always incredibly exciting for me! <br> <br>
-🤖 Currently Learning Deep Learning! <br>
+💡 Focused on Advancing in Generative AI
 🎓 Pursuing CSE with focus on AI & ML at Manipal University Jaipur 
 
 ## 🚀 Tech Stack:
