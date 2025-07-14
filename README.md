@@ -61,6 +61,12 @@ I'm a CSE undergrad passionate about building AI-powered tools that blend creati
 ---
 
 
+![](https://nirzak-streak-stats.vercel.app/?user=hemankkumar24&theme=dark&hide_border=false)
+
+
+---
+
+
 ## Socials:
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/hemankfr) [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/hemankkumar24/)
 
