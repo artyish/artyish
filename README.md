@@ -1,5 +1,6 @@
 # Hey! I’m Hemank
 I'm a CSE undergrad passionate about building AI-powered tools that blend creativity with real-world impact. Whether it's crafting intelligent solutions or diving into Generative AI, I love turning ideas into functional, tangible products.  <br><br>
+🤖 Currently studying Generative AI 
 💡 Focused on Advancing in Generative AI <br>
 🎓 Pursuing CSE with focus on AI & ML at Manipal University Jaipur 
 
